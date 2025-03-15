@@ -1,7 +1,7 @@
 {
   "name": "goit-advancedjs-hw-03",
   "version": "1.0.0",
-  "description": "Image search app using Pixabay API",
+  "description": "Image search app with Pixabay API",
   "main": "index.js",
   "homepage": "https://notjod563.github.io/goit-advancedjs-hw-03/",
   "scripts": {
